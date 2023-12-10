@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mourice-Adero
-- 👀 I’m interested in Web and Android development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web backend development
+- 👀 I’m interested in Web development, database modeling
+- 🌱 I’m currently learning laravel development framework
+- 💞️ I’m looking to collaborate on Web backend development and database modeling
 - 📫 How to reach me: aderomourice7@gmal.com 
 
 <!---
